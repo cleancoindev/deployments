@@ -1,6 +1,6 @@
 # Deployments [![Build Status](https://travis-ci.org/aragon/deployments.svg?branch=master)](https://travis-ci.org/aragon/deployments)
 
-:package: Real-world deployments of Aragon code to Ethereum networks.
+:package: Real-world deployments of 1Hive code to Ethereum networks.
 
 ## Environments
 
@@ -9,6 +9,7 @@
 | Mainnet | Mainnet | [Mainnet](./environments/mainnet) | https://mainnet.aragon.org |
 | Rinkeby (testnet) | Rinkeby | [Rinkeby (testnet)](./environments/rinkeby) | https://rinkeby.aragon.org |
 | Staging (testnet) | Rinkeby | [Staging (rinkeby)](./environments/staging) | https://aragon.staging.aragonpm.com |
+| Flora (sidechain) | Flora | [Flora (sidechain)](./environments/flora) | http://ethinzo3d-dns-reg1.eastus.cloudapp.azure.com:8540 |
 
 ## Scripts
 
@@ -33,16 +34,9 @@ It will check the version published in that transaction, fetch and archive the c
 Example:
 
 ```
-$ scripts/save token-manager 0x6252302b892d2819eecc3a5400346469bc922fcdaab840c4859c8895a0f39e6c  ede0a45a55e8bb33ba84ac11c6989385416d8049 --environment staging
+$ scripts/save redemptions.open 0x6252302b892d2819eecc3a5400346469bc922fcdaab840c4859c8895a0f39e6c  ede0a45a55e8bb33ba84ac11c6989385416d8049 --environment staging
 
-Fetching info for 'token-manager.aragonpm.eth' on staging...
-Creating deployment record for token-manager.aragonpm.eth@1.0.0 on staging
-Saving archive to environments/staging/token-manager.aragonpm.eth/token-manager.aragonpm.eth@1.0.0.tar.gz
+Fetching info for 'redemptions.open.aragonpm.eth' on staging...
+Creating deployment record for redemptions.open.aragonpm.eth@1.0.0 on staging
+Saving archive to environments/staging/redemptions.open.aragonpm.eth/redemptions.open.aragonpm.eth@1.0.0.tar.gz
 ```
-
-## v0.5 deployments
-
-Deployment history for v0.5 releases can be found [here](https://github.com/aragon/deployments/tree/v0.5). v0.5 has now been [deprecated](https://blog.aragon.org/deprecation-notice-on-v0-5-rinkeby-daos/).
-
-They will be maintained in the master branch of this repo in the [deprecated directory](./deprecated) until after March 29th, 2019 when Aragon v0.5 support will be discontinued.
-

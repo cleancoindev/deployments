@@ -1,17 +1,17 @@
 {
   "name": "deployments",
-  "description": "Aragon deployments",
+  "description": "1Hive deployments",
   "version": "0.0.1",
   "private": true,
   "license": "AGPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aragon/deployments.git"
+    "url": "git+https://github.com/1hive/deployments.git"
   },
   "bugs": {
-    "url": "https://github.com/aragon/deployments/issues"
+    "url": "https://github.com/1hive/deployments/issues"
   },
-  "homepage": "https://github.com/aragon/deployments#readme",
+  "homepage": "https://github.com/1hive/deployments#readme",
   "author": "Aragon Association <legal@aragon.org>",
   "dependencies": {
     "@aragon/apm": "^2.0.2",
