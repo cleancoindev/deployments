@@ -5,7 +5,7 @@
 
 ## Artifacts
 
-- ENS: `0x98df287b6c145399aaa709692c8d308357bc085d`
+- ENS: `0xfe03625ea880a8cba336f9b5ad6e15b0a3b5a939`
 - aragonPM:
   - `aragonpm.eth`: `0xda897630fa0f1902f99623bc00e18acd12657d4f`
   - `open.aragonpm.eth`: `0x915c4a47e7c7f7ab04ac70b4bcfba257a1e8b040`
@@ -17,7 +17,13 @@
 -----------
 ### Aragon Apps
 
-Deployed: `redemptions`
+Deployed: 
+
+- `redemptions`
+- `token request`
+- `time lock`
+- `dandelion voting`
+- `delay`
 
 Command:
 ```
@@ -28,4 +34,8 @@ Details of the deployment can be found in [`deploys.yml`](./deploys.yml)
 
 Final versions:
 
-- `redemptions.open.aragonpm.eth`: `4.0.0`
+- `redemptions.open.aragonpm.eth`: `6.0.0`
+- `token-request.open.aragonpm.eth`: `1.0.0`
+- `time-lock.open.aragonpm.eth`: `1.0.0`
+- `dandelion-voting.open.aragonpm.eth`: `1.0.0`
+- `delay.open.aragonpm.eth`: `1.0.0`
