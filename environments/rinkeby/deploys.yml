@@ -7,3 +7,49 @@ redemptions.open.aragonpm.eth:
       ipfsHash: QmTZKG6MoYkKDwsyY3TK9oPbdaimkB9Zx1R3CYsjSWLhwb
       contractAddress: '0x0048B3b409491d22C59c26f92015fCc8805ebf45'
       commitHash: a1bfdd1aff3e14d6c302e7870da30e3498ee12d5
+    6.0.0:
+     date: 2019-12-10T02:56:45
+     txHash: '0xb547c9e833988ff7fd1c7f1dc3e3524ab56bf99fb28fbe999d9c7f3f7d3ecc27'
+     ipfsHash: QmPTJXaFtzprRw1rsQUP4ERYuhyZaZUnQBxsm62VoF4cw4
+     contractAddress: '0x417011519069b077f85CB9A519A994c0D7Ea7556'
+     commitHash: 8be9dbbdddf5a3acac8175cab2df0f953fd31f5e
+      
+token-request.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/token-request-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T17:20:30
+      txHash: '0xe1be1ab573b02417df82956882a169eda37dfab2f6ec93d6acb6c1e6f33d9640'
+      ipfsHash: QmNR1f2tiS54TRXSQdPDq618JtYfqrW8YxrhmHKqRiF8r9
+      contractAddress: '0xc2d4B4c904422B06cbA660C38751eEa62935b86B'
+      commitHash: fbdff7add8748bdd0b58687eab2fcf29d8b054e2
+
+time-lock.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/time-lock-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:09:15
+      txHash: '0xc9e61038ec2c149b903f2c1262140229b92f0fd553d6406875c511de98111992'
+      ipfsHash: QmaEufmAJxqLc2ot2YfF2QLX9q7pGQXkZAq1oDyUrvkfyW
+      contractAddress: '0xAfb0EC93C3bFe71A0529A226a944FeA89fb23F50'
+      commitHash: 396029fe088c092755cb3eb5d2cb1c495dc64958
+      
+dandelion-voting.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/dandelion-voting-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:31:45
+      txHash: '0x2ca026206ed135ea25363b9db4d164dcf5fd16d468734df5d5d9c6c53cfdde7f'
+      ipfsHash: QmUMY8e85wz221bVezwgqEkB2pftGrSVxnHWPQRegFU47c
+      contractAddress: '0xFaa9efABcc1EeaE1484438673F363D2b5183414f'
+      commitHash: 5dca6f8629ca0e7ffa92aad93fa771655dbdc814
+      
+delay.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/delay-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:57:30
+      txHash: '0x41fab5596caebc37db6418d312518d3fb1dd361b8e654bb209127c9e83d88618'
+      ipfsHash: QmQ2RgCiwjMXmwZwztHTjPSSTiBH4GBy4XC7BWHEJ75wHB
+      contractAddress: '0x58EE5D04a983dc37F96E6DD9AA66091F0302D946'
+      commitHash: e77c18fd45b57f8ff4cb508d5a4cae6ce3723a44
