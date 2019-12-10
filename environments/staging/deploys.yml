@@ -1,9 +1,49 @@
-redemptions-staging.open.aragonpm.eth:
+redemptions.open.aragonpm.eth:
   github: 'https://github.com/1Hive/redemptions-app'
   versions:
-    3.0.0:
-      date: 2019-08-27T16:20:19.000Z
-      txHash: '0x00a4ac6be5b8fb28243b15e8122f6de96d08e31b092193a010ca5b82ef87a7fb'
-      ipfsHash: QmapbnBQrt2jyc41p7HSxkivKXzU1BTG2B2NMRWdXhEj6y
-      contractAddress: '0xeEc82aD83aCF1B1ff927a7Ead60FE22E55FEA883'
-      commitHash: a1bfdd1aff3e14d6c302e7870da30e3498ee12d5
+    1.0.0:
+      date: 2019-12-10T14:20:30
+      txHash: '-'
+      ipfsHash: QmeGgXyfn13XhdaKydGXWMc1Zbj357Ho5awCci8BemiiBN
+      contractAddress: '0x54Efc811784EB0443F339cEcb8BD3c68fEac190C'
+      commitHash: 8be9dbbdddf5a3acac8175cab2df0f953fd31f5e
+      
+token-request.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/token-request-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T17:20:30
+      txHash: '0x6a5262d581eb135bfd099e8e84b18de5649633a22e14734df865ab3a42e0218e'
+      ipfsHash: QmWu2DguUAk7Fqj1k9pEq8dTkMdmfiSX7RUSeeQn8JgEja
+      contractAddress: '0x3B2638488e0Fc240431811cF0Cb0609903955E75'
+      commitHash: fbdff7add8748bdd0b58687eab2fcf29d8b054e2
+      
+time-lock.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/time-lock-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:09:15
+      txHash: '0xb735aa2a5c1be14d26a5f2252eec64bd57fdd9670fcddcce7258946f24ee8592'
+      ipfsHash: QmWzbyfHiknkDJTQMGxWBnitC2J1sVp9d2TpVA5CZxcbWt
+      contractAddress: '0x12459BD62e19E61654CC3C69e30023303486C6a4'
+      commitHash: 396029fe088c092755cb3eb5d2cb1c495dc64958
+      
+dandelion-voting.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/dandelion-voting-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:31:45
+      txHash: '0xdfedb95526d20326d70ead99a1f89e1e97ef1e7a857d9c2dbedc75d07e084a35'
+      ipfsHash: Qmc8GZK7qeibLFPchZvKdv7tyLwsmwFA23Uw9T3EWUboWG
+      contractAddress: '0x161c291dbd782C732e3183CBC8B6fB18A6572446'
+      commitHash: 5dca6f8629ca0e7ffa92aad93fa771655dbdc814
+      
+delay.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/delay-app'
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:57:30
+      txHash: '0xe5bb81edca2784a47d894f3e1b1ace8c217fdc4adc2c68677b3801371217dc43'
+      ipfsHash: QmTD7ZBb6oycs2pZSRqSc5Hs6UhZxD6fhyB9b34YByKXDe
+      contractAddress: '0x3B8041b8743A624A24Be6587d4b03235092e8a78'
+      commitHash: e77c18fd45b57f8ff4cb508d5a4cae6ce3723a44
