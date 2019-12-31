@@ -48,6 +48,12 @@ time-lock.open.aragonpm.eth:
     2.0.0:
       date: 2019-12-29T21:46:15
       txHash: '0xcaa81ae4608d480b865b09275244f06a732cf05008ec5a0e4a43edbe4f967e5d'
+      ipfsHash: QmaVZum1E29TVJvmdiPWFikdECsrj1urDyw1f3jzzM4rKs
+      contractAddress: '0x7Cc98f85A1d0c3BaF0dd9d95277E406B46B6331D'
+      commitHash: 00f4d67e0a4afc0379b44b0fadef393d99e04572
+    3.0.0:
+      date: 2019-12-30T21:46:15
+      txHash: '0x50fdd2d313209b7e62b74caeeb389ce8cf3fae5d8df73dfa878326938a1b26ed'
       ipfsHash: QmZM8HdVzL3dhnfkHEfEvznVvpg28ETTDLYgofqaZ5T65X
       contractAddress: '0x664EA483A9c10158BFB6d50E9DA3F5792e291292'
       commitHash: 00f4d67e0a4afc0379b44b0fadef393d99e04572
