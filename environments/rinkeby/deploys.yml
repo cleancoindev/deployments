@@ -109,6 +109,12 @@ dandelion-org-template.open.aragonpm.eth:
        ipfsHash: QmYRHFKwMNFpLfEkPJBQ9eeafb4698h1GTym6h1d4g6MVS
        contractAddress: '0xDB25fB7CC4D763cb82C33ACfCD5cd934EeD07C84'
        commitHash: 6d1d93f31e80a987900c2e2298e5ab501aebb499
+     2.0.2:
+       date: 2020-01-13T16:41:30
+       txHash: '0x5bf34e19235cd478f293aec6ff8f452105aa7549074d2a2bcc34dcd668a4c0ba'
+       ipfsHash: QmTt1eU8jEryscYbEtiusMjv486ffQXpY5CmSH6f4VArKc
+       contractAddress: '0x3bc7295652a8e15e89bc54423410f27d6121628b'
+       commitHash: 691f067c8c9f11249716c24b697cff9be25eaa9a
        
 
       
