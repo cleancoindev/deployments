@@ -1,0 +1,117 @@
+redemptions.open.aragonpm.eth:
+  github: "https://github.com/1Hive/redemptions-app"
+  versions:
+    4.0.0:
+      date: 2019-08-28T16:51:53.000Z
+      txHash: "0x961e46844261be4395392ffaf0c1a0b588a5a16f27bdc563ed3b386fce0d8d7b"
+      ipfsHash: QmTZKG6MoYkKDwsyY3TK9oPbdaimkB9Zx1R3CYsjSWLhwb
+      contractAddress: "0x0048B3b409491d22C59c26f92015fCc8805ebf45"
+      commitHash: a1bfdd1aff3e14d6c302e7870da30e3498ee12d5
+    6.0.0:
+      date: 2019-12-10T02:56:45
+      txHash: "0xb547c9e833988ff7fd1c7f1dc3e3524ab56bf99fb28fbe999d9c7f3f7d3ecc27"
+      ipfsHash: QmWguPAttFgFyMCT9HModWoukgDpUNfrESKKkaHvc7vP6J
+      contractAddress: "0x2689f3bB47cfbF3f766f251178133dc71cFeD2BE"
+      commitHash: 8be9dbbdddf5a3acac8175cab2df0f953fd31f5e
+    7.0.0:
+      date: 2019-12-29T21:46:45
+      txHash: "0x4cb38762a18a40365fedaf54e9a3ab01ea0156b48e132ca7ef93ed84a29e2cd8"
+      ipfsHash: QmPTJXaFtzprRw1rsQUP4ERYuhyZaZUnQBxsm62VoF4cw4
+      contractAddress: "0x417011519069b077f85CB9A519A994c0D7Ea7556"
+      commitHash: ea8aa3c6336d183362895834dddf4673973c6d18
+
+token-request.open.aragonpm.eth:
+  github: "https://github.com/1Hive/token-request-app"
+  versions:
+    1.0.0:
+      date: 2019-12-10T17:20:30
+      txHash: "0xe1be1ab573b02417df82956882a169eda37dfab2f6ec93d6acb6c1e6f33d9640"
+      ipfsHash: QmNR1f2tiS54TRXSQdPDq618JtYfqrW8YxrhmHKqRiF8r9
+      contractAddress: "0xc2d4B4c904422B06cbA660C38751eEa62935b86B"
+      commitHash: fbdff7add8748bdd0b58687eab2fcf29d8b054e2
+    2.0.0:
+      date: 2019-12-29T21:46:30
+      txHash: "0x4d6a60e168ae319b7d936318beb63264b8c40dd0eb94030b733541c9eb55d462"
+      ipfsHash: QmfMyG3KoBoRAjFL3i25f6ttLLvc9XQGgXH3S9riPmv8Jh
+      contractAddress: "0x40194591c32308162A5Aa4b648c60eC5a04F6926"
+      commitHash: 8ee688e9ae761d7acc879bae15f96dad6c440a0e
+
+time-lock.open.aragonpm.eth:
+  github: "https://github.com/1Hive/time-lock-app"
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:09:15
+      txHash: "0xc9e61038ec2c149b903f2c1262140229b92f0fd553d6406875c511de98111992"
+      ipfsHash: QmaEufmAJxqLc2ot2YfF2QLX9q7pGQXkZAq1oDyUrvkfyW
+      contractAddress: "0xAfb0EC93C3bFe71A0529A226a944FeA89fb23F50"
+      commitHash: 396029fe088c092755cb3eb5d2cb1c495dc64958
+    2.0.0:
+      date: 2019-12-29T21:46:15
+      txHash: "0xcaa81ae4608d480b865b09275244f06a732cf05008ec5a0e4a43edbe4f967e5d"
+      ipfsHash: QmaVZum1E29TVJvmdiPWFikdECsrj1urDyw1f3jzzM4rKs
+      contractAddress: "0x7Cc98f85A1d0c3BaF0dd9d95277E406B46B6331D"
+      commitHash: 00f4d67e0a4afc0379b44b0fadef393d99e04572
+    3.0.0:
+      date: 2019-12-30T21:46:15
+      txHash: "0x50fdd2d313209b7e62b74caeeb389ce8cf3fae5d8df73dfa878326938a1b26ed"
+      ipfsHash: QmZM8HdVzL3dhnfkHEfEvznVvpg28ETTDLYgofqaZ5T65X
+      contractAddress: "0x664EA483A9c10158BFB6d50E9DA3F5792e291292"
+      commitHash: 00f4d67e0a4afc0379b44b0fadef393d99e04572
+
+dandelion-voting.open.aragonpm.eth:
+  github: "https://github.com/1Hive/dandelion-voting-app"
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:31:45
+      txHash: "0x2ca026206ed135ea25363b9db4d164dcf5fd16d468734df5d5d9c6c53cfdde7f"
+      ipfsHash: QmUMY8e85wz221bVezwgqEkB2pftGrSVxnHWPQRegFU47c
+      contractAddress: "0xFaa9efABcc1EeaE1484438673F363D2b5183414f"
+      commitHash: 5dca6f8629ca0e7ffa92aad93fa771655dbdc814
+    2.0.0:
+      date: 2019-12-29T22:31:45
+      txHash: "0x3e90bf06edebaf0729634325178b10d4ab7025065ee438364ddabbbac5c5aa17"
+      ipfsHash: QmbXvhiWkJuF2ghByTNXDNVtShtUHaeumAJN3qANmmyPSb
+      contractAddress: "0xc2094BEaE175911201985b4FAdA35a3569426486"
+      commitHash: 5a66f910e54ed0decc74b179a8d61dfd7397229a
+
+delay.open.aragonpm.eth:
+  github: "https://github.com/1Hive/delay-app"
+  versions:
+    1.0.0:
+      date: 2019-12-10T18:57:30
+      txHash: "0x41fab5596caebc37db6418d312518d3fb1dd361b8e654bb209127c9e83d88618"
+      ipfsHash: QmQ2RgCiwjMXmwZwztHTjPSSTiBH4GBy4XC7BWHEJ75wHB
+      contractAddress: "0x58EE5D04a983dc37F96E6DD9AA66091F0302D946"
+      commitHash: e77c18fd45b57f8ff4cb508d5a4cae6ce3723a44
+
+token-balance-oracle.open.aragonpm.eth:
+  github: "https://github.com/1Hive/token-oracle"
+  versions:
+    1.0.0:
+      date: 2019-12-29T22:30:30
+      txHash: "0x3fb1bae31e946dcfa7ba14c0ed002bec664270233e8a29e2af8ae28c0381d5ba"
+      ipfsHash: QmVjR61n6J37BvkRoJEHKbMEX2iySdBq8PSPa9U6AZ5UzM
+      contractAddress: "0x013162Ce8437e684E021e57f43831Df4894892D4"
+      commitHash: a9ae2edf9d7654b5a5b8135f49d081dc229c4d30
+
+dandelion-org-template.open.aragonpm.eth:
+  github: "https://github.com/1Hive/dandelion-org"
+  versions:
+    1.0.0:
+      date: 2019-12-29T22:45:30
+      txHash: "0x14155f96be3e857d66042bbd90a406af37ab37ef128e9aa40460f63cc83a2d3b"
+      ipfsHash: Qmd4CotzHb4QKvPt7NqS7ssYckKMcEUUJfafsyZt9XQoZm
+      contractAddress: "0x2242e3eaa6ef847989007e22adab48578c6ddc67"
+      commitHash: 6d1d93f31e80a987900c2e2298e5ab501aebb499
+    2.0.0:
+      date: 2019-12-31T15:45:30
+      txHash: "0xe01eee6f30be8ecdacc8af94da1c5cf61c149c0b1395a7ee9ae62ca255cc473b"
+      ipfsHash: QmYRHFKwMNFpLfEkPJBQ9eeafb4698h1GTym6h1d4g6MVS
+      contractAddress: "0xDB25fB7CC4D763cb82C33ACfCD5cd934EeD07C84"
+      commitHash: 6d1d93f31e80a987900c2e2298e5ab501aebb499
+    2.0.2:
+      date: 2020-01-13T16:41:30
+      txHash: "0x5bf34e19235cd478f293aec6ff8f452105aa7549074d2a2bcc34dcd668a4c0ba"
+      ipfsHash: QmTt1eU8jEryscYbEtiusMjv486ffQXpY5CmSH6f4VArKc
+      contractAddress: "0x3bc7295652a8e15e89bc54423410f27d6121628b"
+      commitHash: 691f067c8c9f11249716c24b697cff9be25eaa9a
