@@ -7,6 +7,12 @@ redemptions.aragonpm.eth:
       ipfsHash: QmXdEGNVwweyjKC2S7f6RVQSZp8gZNF1zjGQMqvJUiqMeE
       contractAddress: "0x5B1f69304651b3e7a9789D27e84f1F7336c356e8"
       commitHash: 533acc281239501b424ef8fc1c4e86e5fb574306
+    1.1.0:
+      date: 2020-02-15T19:13:53.000Z
+      txHash: "0xd6ed241fe7a5c15b6d2e59d43387f035c3fcb1718f13c0cfe516e680fc1026cf"
+      ipfsHash: QmTmH2Ev15k1sYERVQigGPaaBhVLtuqDafNot4JRH6HRoD
+      contractAddress: "0x5B1f69304651b3e7a9789D27e84f1F7336c356e8"
+      commitHash: 98b6b78dec2a3ca36ebe4fa56f22625479451370
 
 token-request.aragonpm.eth:
   github: "https://github.com/1Hive/token-request-app"
@@ -17,6 +23,12 @@ token-request.aragonpm.eth:
       ipfsHash: QmZuMvYt75YD81jnrcGTQRGKoppEm17ErSQEdbxLXyiFEr
       contractAddress: "0x61dAC0359fAeCFE0b39a52F892B40fD8b23F4266"
       commitHash: b58ef2b0c815e70624427c29bb362a730a99e4a7
+    1.1.0:
+      date: 2020-02-15T19:29:30
+      txHash: "0xf290e3b8978e3f69734b990be4e797a8dc87612dc2cb7287a5a182a6ca22767a"
+      ipfsHash: QmYQ1KuuRjK9wVn3pPxzPZ4vC9SpP2QZNGKKtyzSMp4RPQ
+      contractAddress: "0x61dAC0359fAeCFE0b39a52F892B40fD8b23F4266"
+      commitHash: 315dd20c6eb6f1b49bf452b29b221dd676a7f473
 
 time-lock.aragonpm.eth:
   github: "https://github.com/1Hive/time-lock-app"
@@ -27,6 +39,12 @@ time-lock.aragonpm.eth:
       ipfsHash: QmbA48JgDCL54vp6pAdDtff8bXmXakRg1DLrwgqsYXhtPB
       contractAddress: "0x8DEcc97558329A4653b3Feca8c77E77E621AAFD5"
       commitHash: 55640065b81f8f02c7355da6b8005900f4c79ff9
+    1.1.0:
+      date: 2020-02-15T19:44:15
+      txHash: "0x436beb6dcc2babb2ee9c85f8e5a21404f4ca5c9c3d4f7291503b0f2e1be1875c"
+      ipfsHash: QmVhQk3ivXcpnDMc4NSGtKGf11c4vhBLdTTpwS7YNH14JY
+      contractAddress: "0x8DEcc97558329A4653b3Feca8c77E77E621AAFD5"
+      commitHash: 28791d7a5c637cb571463d3fecf34b77d361eab0
 
 dandelion-voting.aragonpm.eth:
   github: "https://github.com/1Hive/dandelion-voting-app"
@@ -37,6 +55,12 @@ dandelion-voting.aragonpm.eth:
       ipfsHash: QmdNmz3jHmjnhpmEFncWr59GVq86TwAvo4sCksGkoGeghk
       contractAddress: "0x417c5ec1E30D37f1d3D54A974E2F384e640046E5"
       commitHash: 23ff0b5d80cf69039549574deee4b60cfde93c6c
+    1.1.0:
+      date: 2020-02-07T19:54:45
+      txHash: "0x021d15d871a1c820dab0726ddf711384a1e3642b5c13b5f0aa518a43bed6a876"
+      ipfsHash: QmWRU4hGynmE9aRVFZPYmMwGccvYJpSp2eRycT42UHGgMi
+      contractAddress: "0x417c5ec1E30D37f1d3D54A974E2F384e640046E5"
+      commitHash: be831c5bf41a2a71a97a74708c15fedfd2b74969
 
 delay.aragonpm.eth:
   github: "https://github.com/1Hive/delay-app"
