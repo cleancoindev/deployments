@@ -66,7 +66,7 @@ delay.aragonpm.eth:
   github: "https://github.com/1Hive/delay-app"
   versions:
     1.0.0:
-      date: 2020-12-07T19:13:30
+      date: 2020-02-07T19:13:30
       txHash: "0x6ef37c76f3305cf158e97a2ef9ec1f01a75cc6c42e45e3d04ce46b46f7a569ac"
       ipfsHash: QmPJGitiEgZg2T6jxzZtEE3xo4dZfPYea89aN8zSTTtC4T
       contractAddress: "0x07759C39BbC1F88CA6b61B5EF500472Ca606DF89"
@@ -83,6 +83,12 @@ delay.aragonpm.eth:
       ipfsHash: QmSE1VZT1Q2yB43SLRqeJ7hvxYYKzCwtrCv7uTCnikvfdb
       contractAddress: "0x07759C39BbC1F88CA6b61B5EF500472Ca606DF89"
       commitHash: c686d0b6676eb664c000f064d8789bd376d8206f
+    1.2.0:
+      date: 2020-03-20T17:00:00
+      txHash: "0x5cf78b7ba4f75ef22bc10711cb358581fd2744e5e822757c9d80e2b4f832f263"
+      ipfsHash: QmU7jgK7paqkFAbbfqFvBE4ceKWyZKSoAB1v1s468AGrB8
+      contractAddress: "0x07759C39BbC1F88CA6b61B5EF500472Ca606DF89"
+      commitHash: e095eec3b46b0357e74f6b50d32662b8c2956d7b
 
 token-balance-oracle.aragonpm.eth:
   github: "https://github.com/1Hive/token-oracle"
