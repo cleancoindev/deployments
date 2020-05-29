@@ -41,6 +41,12 @@ token-request.aragonpm.eth:
       ipfsHash: QmX4x1zpprGoS5GFmZLrawcJQj52awzQa3QyxoxaQWz3dX
       contractAddress: "0x592445A6cd642fB14cefdfe343C655A23a7a3931"
       commitHash: b82bb54af14c419d86dc8d32f4fa7abf266b1723
+    3.0.0:
+      date: 2020-05-29T18:29:30
+      txHash: "0x1445f4f860cb9f13733550740d68841ecf374f9bf64b931309066d10878ea8e9"
+      ipfsHash: QmeWyGs1YEbAYk34erXs681Wj2nfSLtENHB42VVEsjgUpw
+      contractAddress: "0x9bb880490625E1a0222d47f6b6409110E634691b"
+      commitHash: a706d66a25486a79ba40bc799235faeb95a7b224
 
 time-lock.aragonpm.eth:
   github: "https://github.com/1Hive/time-lock-app"
@@ -63,6 +69,12 @@ time-lock.aragonpm.eth:
       ipfsHash: QmdphdtxMB1fU7N48EeXi1h5PXk7my1hCrU4vtcg6WPVmw
       contractAddress: "0x27256872354F490c96C8D5c72588B96EAEb7e15B"
       commitHash: 28791d7a5c637cb571463d3fecf34b77d361eab0
+    3.0.0:
+      date: 2020-05-29T19:23:30
+      txHash: "0x27e488a506041c25b708fa144cbdbb0f57a6b40dfd394bd4bb0732539f137928"
+      ipfsHash: QmNj87dbr2tSV9nwNuJuFwo59bXsmqKSz7zV2TcJKV98PR
+      contractAddress: "0x49703aB04FFc95Ab3bC083D6e658552c7FbDA4d1"
+      commitHash: f88ca7c2a5b90cea4c55d9b2e83b204cc40ca29a
 
 dandelion-voting.aragonpm.eth:
   github: "https://github.com/1Hive/dandelion-voting-app"
