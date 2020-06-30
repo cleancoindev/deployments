@@ -47,3 +47,15 @@ delay.open.aragonpm.eth:
       ipfsHash: QmTD7ZBb6oycs2pZSRqSc5Hs6UhZxD6fhyB9b34YByKXDe
       contractAddress: '0x3B8041b8743A624A24Be6587d4b03235092e8a78'
       commitHash: e77c18fd45b57f8ff4cb508d5a4cae6ce3723a44
+
+payroll.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/payroll-app'
+  versions:
+    1.0.0:
+      date: 2020-06-29T23:03:30
+      txHash: '0x76d84db729760e6ccbb007f7075d9ee7cf81d073ec656547b4912f2a793d574e'
+      ipfsHash: Qma3fgnSmfGZCfypTZvx4SasYQcMUyH3yUaivbnA6pqxPi
+      contractAddress: '0x72770E61dBD49B84856351ECE5fc7E9BB22F530F'
+      commitHash: bfb53c61ac6c6473845488edeb6cf6b7f57b4edb
+
+
