@@ -151,6 +151,7 @@ dandelion-org-template.aragonpm.eth:
       ipfsHash: Qmc3fYndnpqJEnm21EYWrvM8DtiHpGaeX2yebD4KuNqNpB
       contractAddress: "0x09380aeaf234052bb8bde6dceffc45d8fde8f98d"
       commitHash: 393be58887c54286ae7fae7c60fe005a24bfae4e
+      
 better-payroll.open.aragonpm.eth:
   github: 'https://github.com/1Hive/payroll-app'
   versions:
