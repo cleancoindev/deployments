@@ -151,3 +151,12 @@ dandelion-org-template.aragonpm.eth:
       ipfsHash: Qmc3fYndnpqJEnm21EYWrvM8DtiHpGaeX2yebD4KuNqNpB
       contractAddress: "0x09380aeaf234052bb8bde6dceffc45d8fde8f98d"
       commitHash: 393be58887c54286ae7fae7c60fe005a24bfae4e
+payroll.open.aragonpm.eth:
+  github: 'https://github.com/1Hive/payroll-app'
+  versions:
+    1.0.0:
+      date: 2020-07-01T12:13:30
+      txHash: '0x598d18d50fdcf3fb5ac0fb38865b3a978c75bd930c8e120e2965a4306f83f491'
+      ipfsHash: QmWmvVFwtLRPto9dmPMDojwenF5ERsGFMJ7ESrKcq6pXct
+      contractAddress: '0x812a8Fb842c6956edDB559DbBf25096240303720'
+      commitHash: bfb53c61ac6c6473845488edeb6cf6b7f57b4edb
