@@ -51,11 +51,24 @@ delay.open.aragonpm.eth:
 payroll.open.aragonpm.eth:
   github: 'https://github.com/1Hive/payroll-app'
   versions:
-    1.0.0:
+    0.1.0:
       date: 2020-06-29T23:03:30
       txHash: '0x76d84db729760e6ccbb007f7075d9ee7cf81d073ec656547b4912f2a793d574e'
       ipfsHash: Qma3fgnSmfGZCfypTZvx4SasYQcMUyH3yUaivbnA6pqxPi
       contractAddress: '0x72770E61dBD49B84856351ECE5fc7E9BB22F530F'
       commitHash: bfb53c61ac6c6473845488edeb6cf6b7f57b4edb
+    1.0.0:
+      date: 2020-07-01T12:43:30
+      txHash: '0x6068d497ff3c4ede572be15b37bb06ccdc297f0a5f03fa3d5c6ed75d5b15d504'
+      ipfsHash: QmSf1xpKXoG6YTCqCsdEVeKCaGoDx3cvoSFsKpBWHMkwDw
+      contractAddress: '0x01439f8602d38a2A3a3fDB1bCA02438431C994f1'
+      commitHash: 4af8c0052e0688451043be7f5fee497494ea7acb
+    1.0.1:
+      date: 2020-07-01T20:28:30
+      txHash: '0x0a0caf01970f55087ffb952d02f9a2f86c09a5a6013d51b4031bf704b40d83ab'
+      ipfsHash: QmSpmLrKuuq9CJaNvky8iZheCqB6TJ4mL15ALgGFC2q9Nk
+      contractAddress: '0x01439f8602d38a2A3a3fDB1bCA02438431C994f1'
+      commitHash: e50a4411fd11de95ae08e7471ff22d86ab65619a
+
 
 

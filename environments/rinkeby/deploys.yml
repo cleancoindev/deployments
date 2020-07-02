@@ -149,7 +149,8 @@ dandelion-org-template.aragonpm.eth:
       date: 2020-02-06T16:20:30
       txHash: "0xbb5d1cb631f8e7e780f3b09e6971520b505e7e2a96e9c41ac6de8604ad68d36"
       ipfsHash: Qmc3fYndnpqJEnm21EYWrvM8DtiHpGaeX2yebD4KuNqNpB
-      contractAddress: "0x09380aeaf234052bb8bde6dceffc45d8fde8f98d"
+      contractAddress: "0x09380aeaf23
+      4052bb8bde6dceffc45d8fde8f98d"
       commitHash: 393be58887c54286ae7fae7c60fe005a24bfae4e
       
 better-payroll.open.aragonpm.eth:
@@ -161,3 +162,15 @@ better-payroll.open.aragonpm.eth:
       ipfsHash: QmWmvVFwtLRPto9dmPMDojwenF5ERsGFMJ7ESrKcq6pXct
       contractAddress: '0x812a8Fb842c6956edDB559DbBf25096240303720'
       commitHash: bfb53c61ac6c6473845488edeb6cf6b7f57b4edb
+    1.0.1:
+      date: 2020-07-01T12:43:30
+      txHash: '0xad1f88b74991632109f8710223585a53de54c01e983b03f316a63cb52efeacb8'
+      ipfsHash: QmeeFVEyNAzxehgaPSmhLepysRk5hHj2CLLyPHbhdrebMv
+      contractAddress: '0x812a8Fb842c6956edDB559DbBf25096240303720'
+      commitHash: 4af8c0052e0688451043be7f5fee497494ea7acb
+    1.0.2:
+      date: 2020-07-01T20:35:30
+      txHash: '0xad3d9789b5a93ca815f95aa2e601e90aa8ed101a33d6dddd57e2de39e064d89d'
+      ipfsHash: QmSux1jAq6zacGKWdrYKdjkNjMC7QL79UqbgiLxdWw2DQc
+      contractAddress: '0x812a8Fb842c6956edDB559DbBf25096240303720'
+      commitHash: e50a4411fd11de95ae08e7471ff22d86ab65619a
