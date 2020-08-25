@@ -1,0 +1,9 @@
+conviction-beta.open.aragonpm.eth:
+  github: "https://github.com/1Hive/conviction-voting-app"
+  versions:
+    1.0.0:
+      date: 2020-08-25T22:28:30
+      txHash: "0xf23e403a563eb18f9b452b853d8403574a3a353a6bfcb63acacecdfe1d0044bb"
+      ipfsHash: QmNi8dBRaDnXLTqyF39dC7MaDac4PBSttrS8mUty15wVdq
+      contractAddress: "0x6A992a38C8780b040657A6F83049e838b9575abd"
+      commitHash: 3d662dc4a2e1435ce77705efe719dae70950c4ce
