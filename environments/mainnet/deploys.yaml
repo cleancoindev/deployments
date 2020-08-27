@@ -121,3 +121,23 @@ dandelion-org-template.aragonpm.eth:
       ipfsHash: QmcfeX1eoEZNzhQ5d1i7awKMzG367KxQw6UzgBxT9DiXuJ
       contractAddress: "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8"
       commitHash: 393be58887c54286ae7fae7c60fe005a24bfae4e
+
+conviction-beta.open.aragonpm.eth:
+  github: "https://github.com/1Hive/conviction-voting-app"
+  versions:
+    1.0.0:
+      date: 2020-08-25T18:26:30
+      txHash: "0x35a575f1ef8de91c23b759c08452b9a23f9aa729fc822093cb3cc063b28e6c02"
+      ipfsHash: QmSxEkJnKRxZ6dbpopti5H7myi4se7WTAfLsz4hfpXLzkn
+      contractAddress: "0x6c2b7df22953b1e1b17b8cefb063d8e2e3863a12"
+      commitHash: 3d662dc4a2e1435ce77705efe719dae70950c4ce
+
+gardens-token-manager.open.aragonpm.eth:
+  github: https://github.com/1Hive/token-manager-app
+  versions:
+    1.0.0:
+      date: 2020-08-25T20:17:30
+      txHash: "0x13a67c9a7320a8b936063098c0e5ff784b145c963c0ed14dec50d1f1028459eb"
+      ipfsHash: QmUNLVs5Tg9mfRWXdcqX76nwJQXWuK4X4WupZ6LRH691sJ
+      contractAddress: "0x563218126f1c289ffdc28e9198a6a1e37ed11505"
+      commitHash: e02e14cc9fd3d4f42d5d6d88e6e3e33910a97399
