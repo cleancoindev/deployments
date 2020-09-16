@@ -161,3 +161,12 @@ better-payroll.open.aragonpm.eth:
       ipfsHash: QmWmvVFwtLRPto9dmPMDojwenF5ERsGFMJ7ESrKcq6pXct
       contractAddress: '0x812a8Fb842c6956edDB559DbBf25096240303720'
       commitHash: bfb53c61ac6c6473845488edeb6cf6b7f57b4edb
+
+honey-template.open.aragonpm.eth:
+  github: 
+  versions: 1.0.0:
+    date: 2020-09-16T15:48:00
+    txHash: 0xd777ad663939a6788cb5da281ba17a9e68fac5047eab4f9115930783e5965e56
+    ipfsHash: Qmdt9N457C77YKJ4xoBLJhCx7Vf3FZytLe2maQ6jduJR3f
+    contractAddress: 0xd996bbe5a9189167815bb41d307e0dbcf52ca73d
+    commitHash: 48a451a0b8b1be33477fbb7c03c1bbb91d0d7655
