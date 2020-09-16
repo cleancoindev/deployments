@@ -7,3 +7,12 @@ conviction-beta.aragonpm.eth:
       ipfsHash: QmNi8dBRaDnXLTqyF39dC7MaDac4PBSttrS8mUty15wVdq
       contractAddress: "0x6A992a38C8780b040657A6F83049e838b9575abd"
       commitHash: 3d662dc4a2e1435ce77705efe719dae70950c4ce
+dandelion-voting.1hive.aragonpm.eth:
+  github: "https://github.com/1Hive/dandelion-voting-app"
+  versions:
+    2.0.1:
+      date: 2020-08-26T00:53:30
+      txHash: "0x9741a9e593e08421880240ab22d9b539bd84cf2571bf7c675e2ae0116e47a5cf"
+      ipfsHash: QmYHVNYhcEp8tpZd1PsiJFEbVGA9D8ooFVyLWQxSq7NAS7
+      contractAddress: "0xa2C57A91D9432A685B1df6ECBb61d6063d35808A"
+      commitHash: fb3ee2df86fb8a73b9d6b0ffdf5afdb27e625ace
