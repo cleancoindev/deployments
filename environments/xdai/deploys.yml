@@ -16,3 +16,12 @@ dandelion-voting.1hive.aragonpm.eth:
       ipfsHash: QmYHVNYhcEp8tpZd1PsiJFEbVGA9D8ooFVyLWQxSq7NAS7
       contractAddress: "0xa2C57A91D9432A685B1df6ECBb61d6063d35808A"
       commitHash: fb3ee2df86fb8a73b9d6b0ffdf5afdb27e625ace
+  transactions.open.aragonpm.eth:
+    github: "https://github.com/1Hive/transactions-app"
+    versions:
+      1.0.0:
+        date: 2020-10-25T07:28:05
+        txHash: "0x0d1414b515713059587e4c8e78e7fc914d288e396a3ed859e46e0dd23fa74b9e"
+        ipfsHash: "QmWiBMHVsyJzg8icftvrPoeeDcXiY4t8eix6qYMY6VzaXt"
+        contractAddress: "0xBE47C0b0AB9Ef0e536FC19a8cd5E27d955faF46A"
+        commitHash: "4f8484294735bb669ed05ad3439b2b7b07a751ee"
