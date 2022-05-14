@@ -14,7 +14,7 @@
   "homepage": "https://github.com/1hive/deployments#readme",
   "author": "Aragon Association <legal@aragon.org>",
   "dependencies": {
-    "@aragon/apm": "^2.0.2",
+    "@aragon/apm": "^3.0.0",
     "dot-prop": "^4.2.0",
     "dotenv": "^6.1.0",
     "execa": "^1.0.0",
@@ -27,7 +27,7 @@
     "recursive-readdir": "^2.2.2",
     "targz": "^1.0.1",
     "web3": "1.0.0-beta.34",
-    "yargs": "^11.1.0"
+    "yargs": "^13.2.4"
   },
   "scripts": {
     "start": "forever server/index.js",
